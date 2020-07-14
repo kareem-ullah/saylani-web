@@ -1,0 +1,254 @@
+body{
+    background-color: #f7f8fa;
+}
+.maindiv{
+    height: 80px;
+    border: 1px solid #427900 ;
+}
+.colorDiv{
+    /* width: 350px; */
+    background-color: #427900;
+}
+.div1{
+    background-color: #316dc3;
+    color:white;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-right: 50px;
+    
+}
+.fixbar{
+    background-color:#f7f8fa;
+}
+.fix{
+    margin-left: 60px;
+    background-color:#f7f8fa;
+}
+.colum{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    padding: 5px;
+}
+.navbtn{
+    margin-left: 5px;
+    margin-right: 5px;
+}
+.colum2{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    height: 250px;
+    padding-bottom: 40px;
+}
+.colum3{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+.colum4{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.colum5{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.colum6{
+    display: flex;
+    justify-content: center;
+    /* align-items: center; */
+}
+.pic{
+    height: 20px;
+    margin-left: 10px;
+}
+.pic-11{
+    width: 50px;
+    height: 50px;
+    background-color: #f7f8fa;
+}
+.picimg{
+    margin-bottom: 20px;
+    width: 40px;
+    height: 40px;
+}
+.www3{
+    padding: 5px;
+}
+.www5{
+    background-color: #ffffff;
+    margin-top: 60px;
+    padding-top: 40px;
+}
+.blank{
+    width: 100%;
+    height: 150px;
+    background-color: #ffffff;
+}
+.div2{
+    height: 70px;
+    float: right;
+    padding-top: 25px;
+}
+.corusl-1{
+    height: 490px;
+}
+.corusl-2{
+    margin-top: 15px;
+    height: 30px;
+    background-color: #316dc3;
+    color: aliceblue;
+}
+.corusl-3{
+    margin-top: 15px;
+}
+.heading{
+    text-align: center;
+    margin-top: 50px;
+    /* height: 40px; */
+    
+}
+.heading-1{
+    display: flex;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    justify-content: center;
+    align-items: center
+}
+.center{
+    margin-top: 40px;
+}
+
+.center1{
+    color: #316dc3;
+    margin-bottom: 30px;
+    margin-top: 15px;
+    font-size: 20px;
+}
+.fonsize{
+    font-size: 20px;
+}
+.color1{
+    font-size: 30px;
+    color: blue;
+    font-style: unset;
+}
+.color2{
+    margin-left: -10px;
+    font-size: 30px;
+    color: #427900 ;
+    font-style: unset;
+}
+.heading-p{
+    margin-top: 20px;
+    padding-left: 80px;
+    padding-right: 80px;
+}
+.number-div{
+    color: aliceblue;
+    padding-top: 70px;
+    border: 1px solid darkred;
+    margin-top: 60px;
+    background-color:  blue;
+}
+.green{
+    font-size: 20px;
+    font-weight: bold;
+    color: greenyellow
+}
+.div-box{
+    /* height: 130px; */
+    background-color:#f7f8fa;
+}
+.box1{
+    height: 200px;
+    width: 100%;
+    margin: 15px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    background-color: white;
+    margin-left: 0px;
+    margin-right: 0px;
+}
+.div-4{
+    width: 100%;
+    height: 60px;
+    background-color:#f7f8fa;
+    margin-bottom: 20px;
+}
+.div5{
+    margin-left: 90px;
+    padding-bottom: 40px;
+    width: 200px;
+    height: 30px;
+}
+.imgDiv{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+    
+}
+.divimg{
+    height: 150px;
+    padding: 1px;
+
+}
+.marq{
+    color: greenyellow;
+}
+.marq2{
+    color: blue;
+}
+
+.divbbb{
+    margin: 20px;
+    text-align: start;
+}
+.www4{
+    color: #316dc3
+}
+.image{
+    text-align: center;
+    margin-top: 20px;
+}
+.display{
+    /* border: 1px solid fuchsia; */
+    
+}
+
+.abx2{
+    /* margin-top: 150px; */
+    background-color: #25272e;
+    padding-top: 50px;
+    text-align:left;
+    color:whitesmoke;
+    height: 300px;
+}
+.pic4{
+    width: 20px;
+    height: 20px;
+    margin: 10px;
+}
+.helpline{
+    width: 20px;
+    height: 20px;
+}
+.fot{
+    background-color: #316dc3;
+    height: 50px;
+    padding-top: 10px;
+    font-size: 12px;
+    color: #ffffff;
+}
+.fot p{
+    margin-left: 100px;
+}
